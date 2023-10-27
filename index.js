@@ -1,0 +1,1 @@
+console.log("treinando para melhorar cada vez mais")
